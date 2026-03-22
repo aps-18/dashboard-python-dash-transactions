@@ -1,1 +1,3 @@
-# example-dash-app# testgit2
+# TP-dash-app
+
+Dashboard interactif en Python (Dashbard) permettant d’analyser des données de transactions clients.
