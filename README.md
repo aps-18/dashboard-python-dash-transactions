@@ -12,6 +12,12 @@ Le dashboard permet notamment de visualiser :
 
 Python · pandas · Dash · Plotly
 
+
+## Application interactive
+
+**[Accéder au dashboard interactif](https://tp-python-avance.onrender.com)**
+
+
 ## Lancer l'application
 
 ```bash
@@ -19,14 +25,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Application interactive
-
-**[Accéder au dashboard interactif](https://tp-python-avance.onrender.com)**
-
 ## Auteurs
 
-- **Amélie Pires**
--   
+**Amélie Pires**
+  
 Master 1 Économétrie Appliquée — Python avancé (par Abdoul Razac) — IAE Nantes, 2025-2026
 
 ## Contact
