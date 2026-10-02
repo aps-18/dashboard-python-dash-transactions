@@ -6,7 +6,7 @@ from dash import Dash, dcc, html, Input, Output, dash_table, callback
 import dash_bootstrap_components as dbc
 
 # 1. Charger `data.csv` dans un DataFrame `df`.
-df = pd.read_csv("data.csv")
+df = pd.read_csv("data/data.csv")
 
 # 2. Garder uniquement les colonnes utiles ('CustomerID', 'Gender', 'Location', 'Product_Category', 'Quantity', 'Avg_Price', 'Transaction_Date', 'Month', 'Discount_pct').
 df = df[['CustomerID', 'Gender', 'Location', 'Product_Category', 'Quantity',
